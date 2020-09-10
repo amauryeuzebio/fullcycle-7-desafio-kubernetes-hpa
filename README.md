@@ -17,3 +17,7 @@ docker run -p 8000:8000 --rm go-hpa
 ### Endereço imagem dockerhub
 
 https://hub.docker.com/repository/docker/urameshe/go-hpa
+
+### Resultado desafio de K8S.
+
+![ci](./.github/imgs/desafio-kubernetes-hpa.png)
